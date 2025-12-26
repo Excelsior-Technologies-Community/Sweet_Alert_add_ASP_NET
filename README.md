@@ -1,4 +1,7 @@
-SweetAlert messages are used to provide clear user feedback for create, update, and delete operations, ensuring a better user experience.
+🎨 Project Overview – SweetAlert Integration
+This project uses SweetAlert2 to provide modern, user-friendly alert messages for OTP-based authentication in ASP.NET Core MVC.
+Instead of default browser alerts, SweetAlert is used to show success, error, warning, and confirmation dialogs throughout the application.
+
 
 <img width="1918" height="822" alt="Screenshot 2025-12-26 150000" src="https://github.com/user-attachments/assets/8d337c9f-dd3a-46e6-b5a1-8ca92ac848c7" />
 
