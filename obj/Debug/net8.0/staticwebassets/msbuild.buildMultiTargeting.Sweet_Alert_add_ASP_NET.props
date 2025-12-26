@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Sweet_Alert_add_ASP_NET.props" />
+</Project>

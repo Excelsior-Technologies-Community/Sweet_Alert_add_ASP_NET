@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Sweet_Alert_add_ASP_NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93B00C92-299F-4D52-BB11-D8A6F2A81EB4}|Sweet_Alert_add_ASP_NET.csproj|c:\\users\\hp\\source\\repos\\sweet_alert_add_asp_net\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B00C92-299F-4D52-BB11-D8A6F2A81EB4}|Sweet_Alert_add_ASP_NET.csproj|solutionrelative:repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B00C92-299F-4D52-BB11-D8A6F2A81EB4}|Sweet_Alert_add_ASP_NET.csproj|c:\\users\\hp\\source\\repos\\sweet_alert_add_asp_net\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{93B00C92-299F-4D52-BB11-D8A6F2A81EB4}|Sweet_Alert_add_ASP_NET.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B00C92-299F-4D52-BB11-D8A6F2A81EB4}|Sweet_Alert_add_ASP_NET.csproj|c:\\users\\hp\\source\\repos\\sweet_alert_add_asp_net\\models\\employee\\employeeedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B00C92-299F-4D52-BB11-D8A6F2A81EB4}|Sweet_Alert_add_ASP_NET.csproj|solutionrelative:models\\employee\\employeeedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B00C92-299F-4D52-BB11-D8A6F2A81EB4}|Sweet_Alert_add_ASP_NET.csproj|c:\\users\\hp\\source\\repos\\sweet_alert_add_asp_net\\models\\employee\\employeelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B00C92-299F-4D52-BB11-D8A6F2A81EB4}|Sweet_Alert_add_ASP_NET.csproj|solutionrelative:models\\employee\\employeelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B00C92-299F-4D52-BB11-D8A6F2A81EB4}|Sweet_Alert_add_ASP_NET.csproj|c:\\users\\hp\\source\\repos\\sweet_alert_add_asp_net\\models\\employee\\employeesave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B00C92-299F-4D52-BB11-D8A6F2A81EB4}|Sweet_Alert_add_ASP_NET.csproj|solutionrelative:models\\employee\\employeesave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B00C92-299F-4D52-BB11-D8A6F2A81EB4}|Sweet_Alert_add_ASP_NET.csproj|c:\\users\\hp\\source\\repos\\sweet_alert_add_asp_net\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93B00C92-299F-4D52-BB11-D8A6F2A81EB4}|Sweet_Alert_add_ASP_NET.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B00C92-299F-4D52-BB11-D8A6F2A81EB4}|Sweet_Alert_add_ASP_NET.csproj|c:\\users\\hp\\source\\repos\\sweet_alert_add_asp_net\\views\\home\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93B00C92-299F-4D52-BB11-D8A6F2A81EB4}|Sweet_Alert_add_ASP_NET.csproj|solutionrelative:views\\home\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B00C92-299F-4D52-BB11-D8A6F2A81EB4}|Sweet_Alert_add_ASP_NET.csproj|c:\\users\\hp\\source\\repos\\sweet_alert_add_asp_net\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93B00C92-299F-4D52-BB11-D8A6F2A81EB4}|Sweet_Alert_add_ASP_NET.csproj|solutionrelative:views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B00C92-299F-4D52-BB11-D8A6F2A81EB4}|Sweet_Alert_add_ASP_NET.csproj|c:\\users\\hp\\source\\repos\\sweet_alert_add_asp_net\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B00C92-299F-4D52-BB11-D8A6F2A81EB4}|Sweet_Alert_add_ASP_NET.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B00C92-299F-4D52-BB11-D8A6F2A81EB4}|Sweet_Alert_add_ASP_NET.csproj|c:\\users\\hp\\source\\repos\\sweet_alert_add_asp_net\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93B00C92-299F-4D52-BB11-D8A6F2A81EB4}|Sweet_Alert_add_ASP_NET.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Sweet_Alert_add_ASP_NET\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Sweet_Alert_add_ASP_NET\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-26T09:07:02.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Sweet_Alert_add_ASP_NET\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Sweet_Alert_add_ASP_NET\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAACoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T08:59:22.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Sweet_Alert_add_ASP_NET\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Sweet_Alert_add_ASP_NET\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAKIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-26T07:09:34.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Sweet_Alert_add_ASP_NET\\Views\\Home\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Add.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Sweet_Alert_add_ASP_NET\\Views\\Home\\Add.cshtml",
+              "RelativeToolTip": "Views\\Home\\Add.cshtml",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-26T07:09:19.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Sweet_Alert_add_ASP_NET\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Sweet_Alert_add_ASP_NET\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-26T07:08:54.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeSave.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Sweet_Alert_add_ASP_NET\\Models\\Employee\\EmployeeSave.cs",
+              "RelativeDocumentMoniker": "Models\\Employee\\EmployeeSave.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Sweet_Alert_add_ASP_NET\\Models\\Employee\\EmployeeSave.cs",
+              "RelativeToolTip": "Models\\Employee\\EmployeeSave.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T07:08:14.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeList.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Sweet_Alert_add_ASP_NET\\Models\\Employee\\EmployeeList.cs",
+              "RelativeDocumentMoniker": "Models\\Employee\\EmployeeList.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Sweet_Alert_add_ASP_NET\\Models\\Employee\\EmployeeList.cs",
+              "RelativeToolTip": "Models\\Employee\\EmployeeList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T07:07:58.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeEdit.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Sweet_Alert_add_ASP_NET\\Models\\Employee\\EmployeeEdit.cs",
+              "RelativeDocumentMoniker": "Models\\Employee\\EmployeeEdit.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Sweet_Alert_add_ASP_NET\\Models\\Employee\\EmployeeEdit.cs",
+              "RelativeToolTip": "Models\\Employee\\EmployeeEdit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T07:07:44.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Sweet_Alert_add_ASP_NET\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Sweet_Alert_add_ASP_NET\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-26T07:06:42.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Sweet_Alert_add_ASP_NET\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Sweet_Alert_add_ASP_NET\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "Repository\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwCEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T07:06:05.473Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
